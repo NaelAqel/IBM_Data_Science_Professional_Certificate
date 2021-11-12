@@ -1,4 +1,4 @@
-# IBM_Data_Science_Professional_Certificate
+# IBM Data Science Professional Certificate
 ### Here I share of all labs and projects I had learned in "IBM Data Science Professional Certificate"
 #### This certificate contains 10 courses, it is available in coursera website: [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)  
 
