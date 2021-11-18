@@ -14,3 +14,7 @@
 8. [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)
 9. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
 10. [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)  
+
+
+  
+[see here](https://nbviewer.org/github/NaelAqel/IBM_Data_Science_Professional_Certificate/blob/8b7c7dfa3f8e2c8aa105db29a3042a65174b1399/03%20Data%20Science%20Methodology/04%20Modeling%20to%20Evaluation.ipynb)  
